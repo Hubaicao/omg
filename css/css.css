@@ -115,9 +115,9 @@ nav{width: 1000px;}
 .leftBig ul{margin: 10px 40px;}
 .leftBig ul li{display: inline-block;width: 60px;margin-right: 20px;line-height: 2;}
 .leftBig .tbk img{border-top: 1px solid #ccc;}
-.rightBig li{display: inline-block;width: 130px;line-height: 1.9;padding-left:15px;}
+.rightBig li{display: inline-block;width: 130px;line-height: 1.9;padding-left:20px;}
 .rightBig li span{width: 130px;display: block;margin: 0 auto;}
-.rightBig {width: 591px;margin-left: 15px;}
+.rightBig {width: 600px;margin-left: 15px;}
 .rightBig li em{color:red ;font-size: 18px;font-style: normal}
 .rightBig{margin-right: 20px;}
 .rightBig .qpadding{padding-left: 0;}
